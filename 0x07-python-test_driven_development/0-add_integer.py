@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/usr/bin/python3
 """Module for add_integer method."""
 
@@ -25,3 +26,6 @@ def add_integer(a, b=98):
 if __name__ == "__main__":
     import doctest
     doctest.testfile("tests/0-add_integer.txt")
+=======
+
+>>>>>>> 2a15633f86c2f0918ba8289c99757295d3e98133
